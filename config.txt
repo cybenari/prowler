@@ -1,1 +1,1 @@
-https://storage.googleapis.com/scannerconfig/config.json
+https://scannerconfig.s3.amazonaws.com/aws.txt
